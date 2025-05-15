@@ -31,5 +31,13 @@ Using **computer vision with ArUco markers** and **path planning algorithms**, t
 
 ---
 
-## Project Structure
+## Robot Images
+![PHOTO-2025-04-13-19-37-51](https://github.com/user-attachments/assets/72bb3b7b-b380-4845-9bfa-75fa8f0600e9)
+
+- **Front View**
+![PHOTO-2025-04-13-19-37-51(3)](https://github.com/user-attachments/assets/01df8c3a-31ca-475c-91e9-796a4df1a684)
+- **Top View**
+![PHOTO-2025-04-13-19-41-49](https://github.com/user-attachments/assets/319c5ef1-859a-423d-9215-1f8b5eebad1f)
+- **Side View**
+![PHOTO-2025-04-13-19-37-51(2)](https://github.com/user-attachments/assets/a763f9b5-d34f-462e-8207-85d498cf2c99)
 
